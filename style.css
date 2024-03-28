@@ -68,6 +68,7 @@ body.toggle::before {
   padding: 34px 56px 31px;
   box-shadow: 0px 20px 50px 0px #00000040;
   z-index: 100;
+  transition:0.2s;
 }
 
 .search-block .content {
